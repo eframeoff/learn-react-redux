@@ -1,0 +1,12 @@
+.Btn {
+  width: 150px;
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 14px;
+  border: 1px solid blue;
+  background-color: white;
+}
+
+.Btn:hover {
+  background-color: aliceblue;
+}
